@@ -1,0 +1,10 @@
+name = "Apr9Project"
+uuid = "467345d8-8c04-465b-9522-20adc32cc0c3"
+version = "0.1.0"
+authors = ["Gideon Simpson <gideon.simpson@gmail.com>"]
+
+[deps]
+Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
+
+[compat]
+Roots = "2.2.14"
