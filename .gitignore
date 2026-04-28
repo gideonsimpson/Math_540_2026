@@ -32,3 +32,6 @@ JuliaLocalPreferences.toml
 
 # scratch work
 scratch/*
+
+# generated files
+*.gif
