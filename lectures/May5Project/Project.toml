@@ -1,0 +1,10 @@
+name = "May5Project"
+uuid = "a5e8230c-2eb1-46bf-acd9-b9b3660aaa0e"
+version = "0.1.0"
+authors = ["Gideon Simpson <gideon.simpson@gmail.com>"]
+
+[deps]
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+
+[compat]
+SparseArrays = "1.12.0"
